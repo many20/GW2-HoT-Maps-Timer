@@ -1,2 +1,2 @@
-# GW2-HoT-Maps-Timer
-modification of the GW2 HoT Maps Timer from Dulfy. added Bosstimer
+# fork of the Dulfy GW2-HoT-Maps-Timer
+added Bosstimer to GW2 HoT Maps Timer from Dulfy
